@@ -12,13 +12,13 @@ return [
     // 数据库类型
     'type'            => 'mysql',
     // 服务器地址
-    'hostname'        => '127.0.0.1',
+    'hostname'        => '23.224.27.10',
     // 数据库名
-    'database'        => 'maccms10',
+    'database'        => 'bkzy',
     // 用户名
-    'username'        => 'root',
+    'username'        => 'bkzy',
     // 密码
-    'password'        => 'root',
+    'password'        => 'dDaHA6KMYefJE74w',
     // 端口
     'hostport'        => '3306',
     // 连接dsn
